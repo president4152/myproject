@@ -7,3 +7,6 @@ public class UserAuthentication {
         login();
     }
 }
+public static void login() {
+    System.out.println("Login successful - my version");
+}
